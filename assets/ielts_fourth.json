@@ -1,0 +1,23 @@
+{
+  "id": 12433,
+  "name": "Zakariya Ibn Yahya",
+  "band": "7.5",
+  "bands": {
+    "reading": {
+      "firstpart" : "9.0",
+      "secondpart" : "8.0"
+    },
+    "writing": {
+      "firstpart" : "5.0",
+      "secondpart" : "7.0"
+    },
+    "listening": {
+      "firstpart" : "9.0",
+      "secondpart" : "5.0"
+    },
+    "speaking": {
+      "firstpart" : "5.0",
+      "secondpart" : "8.0"
+    }
+  }
+}
